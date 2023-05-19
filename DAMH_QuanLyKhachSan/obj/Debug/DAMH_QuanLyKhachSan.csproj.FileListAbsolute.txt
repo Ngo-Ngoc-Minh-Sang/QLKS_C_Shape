@@ -1,0 +1,637 @@
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe.config
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.pdb
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\FlashControlV71.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.Fonts.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Bunifu.Licensing.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.ResolveComReference.cache
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_DichVu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_infoKhachHang.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_KhachHang.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiDichVu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiNhanVien.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_NhanVien.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_Phong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_DatPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_HoaDon.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_NhanPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDangNhap.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDatPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVuAndThanhToan.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoanhThu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoiPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmHoaDon.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmKhachHang.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiDichVu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanVien.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuanLy.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyDinh.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyenTruyCap.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmThongTinCaNhan.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmUpdateKhachhang.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.Properties.Resources.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.GenerateResource.cache
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CopyComplete
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.exe
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.pdb
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe.config
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.pdb
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\FlashControlV71.dll
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.dll
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.Fonts.dll
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.ResolveComReference.cache
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_DichVu.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_infoKhachHang.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_KhachHang.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiDichVu.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiNhanVien.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_NhanVien.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_Phong.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_DatPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_HoaDon.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_NhanPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDangNhap.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDatPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVu.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVuAndThanhToan.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoanhThu.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoiPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmHoaDon.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmKhachHang.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiDichVu.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanVien.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuanLy.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyDinh.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyenTruyCap.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmThongTinCaNhan.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmUpdateKhachhang.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.Properties.Resources.resources
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CopyComplete
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.exe
+D:\Workspace\Laptrinh.Net\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.pdb
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe.config
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.pdb
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\FlashControlV71.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.Fonts.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Bunifu.Licensing.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.ResolveComReference.cache
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_DichVu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_infoKhachHang.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_KhachHang.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiDichVu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiNhanVien.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_NhanVien.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_Phong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_DatPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_HoaDon.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_NhanPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDangNhap.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDatPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVuAndThanhToan.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoanhThu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoiPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmHoaDon.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmKhachHang.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiDichVu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanVien.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuanLy.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyDinh.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyenTruyCap.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmThongTinCaNhan.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmUpdateKhachhang.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.Properties.Resources.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.GenerateResource.cache
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CopyComplete
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.exe
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.pdb
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmUpPassdefaut.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_BAOCAO\MAIN\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.ResolveComReference.cache
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_DichVu.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_infoKhachHang.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_KhachHang.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiDichVu.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiNhanVien.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_NhanVien.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_Phong.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_DatPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_HoaDon.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_NhanPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDangNhap.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDatPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVu.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVuAndThanhToan.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoanhThu.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoiPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmHoaDon.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmInHoaDon.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmKhachHang.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiDichVu.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanVien.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmPhong.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuanLy.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyDinh.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyenTruyCap.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmThongTinCaNhan.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmUpdateKhachhang.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmUpPassdefaut.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.Properties.Resources.resources
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.GenerateResource.cache
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\RdlCompile.cache
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\RdlCompile.compiled
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe.config
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.pdb
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\FlashControlV71.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.Fonts.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\EnvDTE.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\stdole.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.MSXML.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CopyComplete
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.exe
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.pdb
+D:\Workspace\Laptrinh.Net\DAMH_NHOM ER404_PhanMemQuanLyKhachSan\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe.config
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.pdb
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\FlashControlV71.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\EnvDTE.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_DichVu.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_infoKhachHang.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_KhachHang.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiDichVu.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiNhanVien.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_NhanVien.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_Phong.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_DatPhong.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_HoaDon.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_NhanPhong.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDangNhap.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDatPhong.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVu.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVuAndThanhToan.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoanhThu.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoiPhong.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmHoaDon.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmInHoaDon.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmKhachHang.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiDichVu.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiPhong.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanPhong.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanVien.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmPhong.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuanLy.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyDinh.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyenTruyCap.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmThongTinCaNhan.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmUpdateKhachhang.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmUpPassdefaut.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.Properties.Resources.resources
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\RdlCompile.cache
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\RdlCompile.compiled
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CopyComplete
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.exe
+C:\Users\PC\Desktop\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.pdb
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.ResolveComReference.cache
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_DichVu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_infoKhachHang.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_KhachHang.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiDichVu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiNhanVien.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_NhanVien.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_Phong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_DatPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_HoaDon.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_NhanPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDangNhap.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDatPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVuAndThanhToan.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoanhThu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoiPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmHoaDon.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmInHoaDon.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmKhachHang.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiDichVu.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanVien.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmPhong.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuanLy.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyDinh.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyenTruyCap.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmThongTinCaNhan.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmUpdateKhachhang.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmUpPassdefaut.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.Properties.Resources.resources
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.GenerateResource.cache
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\RdlCompile.cache
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\RdlCompile.compiled
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.exe
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.pdb
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe.config
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.pdb
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\FlashControlV71.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.Fonts.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Bunifu.Licensing.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\EnvDTE.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\stdole.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.MSXML.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\1. Univer\Học Kì 5\Nhập Môn Công Nghệ Phần Mềm\báo cáo\MAIN_CNPM\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CopyComplete
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe.config
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.exe
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\DAMH_QuanLyKhachSan.pdb
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\FlashControlV71.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Bunifu.Licensing.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\EnvDTE.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\stdole.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_DichVu.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_infoKhachHang.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_KhachHang.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiDichVu.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_LoaiNhanVien.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_NhanVien.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmAdd_Phong.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_DatPhong.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_HoaDon.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmCT_NhanPhong.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDangNhap.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDatPhong.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVu.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDichVuAndThanhToan.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoanhThu.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmDoiPhong.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmHoaDon.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmInHoaDon.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmKhachHang.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiDichVu.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmLoaiPhong.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanPhong.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmNhanVien.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmPhong.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuanLy.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyDinh.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmQuyenTruyCap.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmThongTinCaNhan.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmUpdateKhachhang.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.GUI_QLKS.frmUpPassdefaut.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.Properties.Resources.resources
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\RdlCompile.cache
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\RdlCompile.compiled
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.csproj.CopyComplete
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.exe
+C:\Users\PC\Desktop\CNPM_Final\DAMH_QuanLyKhachSan\DAMH_QuanLyKhachSan\obj\Debug\DAMH_QuanLyKhachSan.pdb
